@@ -12,4 +12,4 @@
 10. Recommending Relevant Projects via User Behaviour
 11. 基于概率图模型的代码库数据挖掘_姜凯
 12. 软件仓库挖掘领域_贡献者和研究热点_江贺
-13.What Makes An Open Source Code Popular on GitHub?  --MirageLyu
+13. .What Makes An Open Source Code Popular on GitHub?  --MirageLyu
